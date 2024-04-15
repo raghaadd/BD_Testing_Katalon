@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select an Item2-Drawer Locking File _24b5ab</name>
+   <tag></tag>
+   <elementGuidId>3bcc4f86-7552-4eb0-8fef-ac2576c2c354</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select.gwt-ListBox</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vk_items_modal_container_panel']/div[3]/div/div/div/div[2]/div[2]/div[2]/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=combobox >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>0394da4b-6e09-4e99-b6f6-e9d9dbabed66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gwt-ListBox</value>
+      <webElementGuid>5f0a294b-f447-4802-8a90-7fa96fc420aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select an Item2-Drawer Locking File Cabinet2-Drawer File Cabinet3-Drawer File Cabinet4-Drawer Cabinet1-Drawer CPU Cabinet1-Drawer Shelf Cabinet1-Shelf Cabinet3-Drawer Cabinet with Charger</value>
+      <webElementGuid>7bc7f4c0-62ae-4768-be1a-ffaebda45478</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vk_items_modal_container_panel&quot;)/div[@class=&quot;gwt-vk-items-modal-scrollpanel&quot;]/div[1]/div[1]/div[@class=&quot;gwt-vk-item-display-panel&quot;]/div[@class=&quot;gwt-vk-item-panel&quot;]/div[@class=&quot;gwt-vk-item-panel-column2-column3-container&quot;]/div[@class=&quot;gwt-vk-item-panel-column3&quot;]/select[@class=&quot;gwt-ListBox&quot;]</value>
+      <webElementGuid>89719187-af26-414b-926c-272c7f1df512</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vk_items_modal_container_panel']/div[3]/div/div/div/div[2]/div[2]/div[2]/select</value>
+      <webElementGuid>27495229-6806-47f2-889c-0c375e01726b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In-stock usually ships in 1-7 business days.'])[1]/following::select[1]</value>
+      <webElementGuid>468a5063-4a39-47a2-901b-3b333db64cde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product 1'])[1]/following::select[1]</value>
+      <webElementGuid>5e046298-1a61-4ee7-a955-3209e0b855e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In-stock usually ships in 1-7 business days.'])[2]/preceding::select[1]</value>
+      <webElementGuid>e26da31a-a636-4022-97dd-23dac51469c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In-stock usually ships in 1-7 business days.'])[3]/preceding::select[2]</value>
+      <webElementGuid>9471adf7-71b2-498c-827d-c7e641f9befb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/select</value>
+      <webElementGuid>f3ca3b7b-00b3-4053-8487-ccd8308dcbee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'Select an Item2-Drawer Locking File Cabinet2-Drawer File Cabinet3-Drawer File Cabinet4-Drawer Cabinet1-Drawer CPU Cabinet1-Drawer Shelf Cabinet1-Shelf Cabinet3-Drawer Cabinet with Charger' or . = 'Select an Item2-Drawer Locking File Cabinet2-Drawer File Cabinet3-Drawer File Cabinet4-Drawer Cabinet1-Drawer CPU Cabinet1-Drawer Shelf Cabinet1-Shelf Cabinet3-Drawer Cabinet with Charger')]</value>
+      <webElementGuid>12dda983-1494-4ac4-8c13-6fc5ae261fbc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

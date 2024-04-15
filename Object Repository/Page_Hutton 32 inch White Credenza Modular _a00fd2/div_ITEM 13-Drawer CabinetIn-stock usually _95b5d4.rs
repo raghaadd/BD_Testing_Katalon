@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ITEM 13-Drawer CabinetIn-stock usually _95b5d4</name>
+   <tag></tag>
+   <elementGuidId>caaf3d00-f5c8-4126-973b-7b03725f82c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.gwt-header.gwt-accordion-tab-header</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollableRigthPanel']/div[5]/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=tab[name=&quot;ITEM 1 3-Drawer Cabinet In-stock usually ships in 1-7 business days.&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3b33ad60-7632-4bc7-8923-94eab3d52f05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gwt-header gwt-accordion-tab-header</value>
+      <webElementGuid>6cfd8f1e-c08d-4a89-a1fe-216257c21c48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>2ad56c15-1e10-407b-8e03-2a5394a62dec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f011e771-6e42-4e6f-a8d4-4f0a88c7f9d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>da859360-e7e9-4dd6-99bb-ac8961cceee0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ITEM 13-Drawer CabinetIn-stock usually ships in 1-7 business days.</value>
+      <webElementGuid>ad673a04-f1d7-4932-9887-e3c09da4240e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollableRigthPanel&quot;)/div[@class=&quot;vk-product-detail-accordion-container&quot;]/div[@class=&quot;vk-product-detail-accordion-panel&quot;]/div[@class=&quot;vk-product-detail-display-accordion-container&quot;]/div[@class=&quot;gwt-vk-item-display-panel&quot;]/div[@class=&quot;gwt-accordion vk-product-detail-items-display-accordion tabopen&quot;]/div[@class=&quot;gwt-accordion-tab first&quot;]/div[@class=&quot;gwt-header gwt-accordion-tab-header&quot;]</value>
+      <webElementGuid>69723f2d-ab9d-440c-b1c0-88136efca73a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollableRigthPanel']/div[5]/div/div/div/div/div/div</value>
+      <webElementGuid>1872a840-ee3d-4378-8726-898d4120d8a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Antique Mirror'])[3]/following::div[9]</value>
+      <webElementGuid>1ec55891-cb54-4419-8fe2-babf18ca5cb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Style:'])[1]/following::div[10]</value>
+      <webElementGuid>1b88b791-3f2d-46d1-a811-d936222a46d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div/div</value>
+      <webElementGuid>904babb8-fa28-4821-b28c-f35944b1936c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ITEM 13-Drawer CabinetIn-stock usually ships in 1-7 business days.' or . = 'ITEM 13-Drawer CabinetIn-stock usually ships in 1-7 business days.')]</value>
+      <webElementGuid>11a9db97-b414-41a6-9b4e-d47ee19ec70b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

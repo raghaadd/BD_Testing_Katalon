@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_4-Drawer Cabinet</name>
+   <tag></tag>
+   <elementGuidId>8b444464-35bd-409e-8a30-557f576f8988</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollableRigthPanel']/div[5]/div/div/div/div/div[2]/div[2]/div/div/div/div/div/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^4-Drawer Cabinet$/ >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f35dd091-7e9c-4d1d-8357-c10225b023fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>72c87c11-7554-4f46-93ca-de246c49116c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gwt-image-picker-option</value>
+      <webElementGuid>8e26ec43-287e-4fcc-9520-83bb9023f7c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>679064</value>
+      <webElementGuid>1dc285dd-8854-4fd4-9871-54e4c34aac26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>4-Drawer Cabinet</value>
+      <webElementGuid>8ad207e6-ccd9-4ed7-93c9-f48e86574477</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollableRigthPanel&quot;)/div[@class=&quot;vk-product-detail-accordion-container&quot;]/div[@class=&quot;vk-product-detail-accordion-panel&quot;]/div[@class=&quot;vk-product-detail-display-accordion-container&quot;]/div[@class=&quot;gwt-vk-item-display-panel&quot;]/div[@class=&quot;gwt-accordion vk-product-detail-items-display-accordion tabopen&quot;]/div[@class=&quot;gwt-accordion-tab&quot;]/div[@class=&quot;gwt-accordion-tab-content tabopen&quot;]/div[1]/div[@class=&quot;gwt-vk-item-panel&quot;]/div[@class=&quot;gwt-vk-item-panel-column3&quot;]/div[@class=&quot;gwt-image-picker&quot;]/div[@class=&quot;gwt-image-picker-option-holder&quot;]/div[@class=&quot;gwt-image-picker-option&quot;]</value>
+      <webElementGuid>3390cd0e-e2cc-4371-bbb6-cdabc1626235</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollableRigthPanel']/div[5]/div/div/div/div/div[2]/div[2]/div/div/div/div/div/div[4]</value>
+      <webElementGuid>36a3c570-0ac0-49d3-8e6a-308ec8ad5bb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make a Selection'])[1]/following::div[17]</value>
+      <webElementGuid>6bc2f1db-69e3-49b4-8d5c-fe22fe4d06ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ITEM 2'])[1]/following::div[20]</value>
+      <webElementGuid>77cf692c-c328-4893-872d-851d4518d995</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Style:'])[2]/preceding::div[7]</value>
+      <webElementGuid>80487466-be85-44a5-93b6-7d8b343fa03b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Antique Mirror'])[4]/preceding::div[8]</value>
+      <webElementGuid>26a75a83-dbde-438f-b3d6-e3e2d6255422</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div/div[4]</value>
+      <webElementGuid>f8cd1c44-77c5-44ea-b3b3-603fdf27cdb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '4-Drawer Cabinet' or . = '4-Drawer Cabinet')]</value>
+      <webElementGuid>35050f44-4b8c-4de2-9c22-5e047f77c71f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

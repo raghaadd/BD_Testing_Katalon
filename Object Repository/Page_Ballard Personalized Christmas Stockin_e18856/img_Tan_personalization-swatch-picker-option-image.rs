@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Tan_personalization-swatch-picker-option-image</name>
+   <tag></tag>
+   <elementGuidId>2738c4ef-a289-4c21-a58c-29d9c4a145be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.personalization-swatch-picker-option.hover > img.personalization-swatch-picker-option-image</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Thread Color|31-option']/div[9]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(9) > .personalization-swatch-picker-option-image</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>df478d88-35e0-4045-b789-307b84b98553</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/wcsstore/images/BallardDesigns/personalization/spa.jpg</value>
+      <webElementGuid>0d293ed0-3f8f-4fb9-bbbc-62e38df89f07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>personalization-swatch-picker-option-image</value>
+      <webElementGuid>56935555-4f93-4d81-a878-3f4f7f8d05ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>46c1d509-a303-40c9-9810-a576b95dbf17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-title</name>
+      <type>Main</type>
+      <value>Spa</value>
+      <webElementGuid>f06c5af3-f08b-41f5-96a1-5605713cff03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Thread Color|31-option&quot;)/div[@class=&quot;personalization-swatch-picker-option hover&quot;]/img[@class=&quot;personalization-swatch-picker-option-image&quot;]</value>
+      <webElementGuid>04d4298a-ba2e-4be7-a91c-1c83cd0591f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Thread Color|31-option']/div[9]/img</value>
+      <webElementGuid>c5ce3691-afa6-4baf-9c5d-4d4a7cbe68b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/div[9]/img</value>
+      <webElementGuid>e653d54d-6772-4508-a01a-9f9958b7abf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/wcsstore/images/BallardDesigns/personalization/spa.jpg']</value>
+      <webElementGuid>3bd9dc71-4869-4a36-ac56-0eff4cb18b0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

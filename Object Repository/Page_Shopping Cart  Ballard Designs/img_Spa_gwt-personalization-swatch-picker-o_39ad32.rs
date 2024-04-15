@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Spa_gwt-personalization-swatch-picker-o_39ad32</name>
+   <tag></tag>
+   <elementGuidId>f13e4d1d-90aa-443d-b5be-dbf89f82b9c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.gwt-personalization-swatch-picker-option.hover > img.gwt-personalization-swatch-picker-option-image</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Thread Color|31-option']/div[16]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(16) > .gwt-personalization-swatch-picker-option-image</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ef80178c-5ece-40a9-b89b-7821524d8094</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/wcsstore/images/BallardDesigns/personalization/teal.jpg</value>
+      <webElementGuid>a5f52b5d-d388-4c63-b37c-adb529abda2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gwt-personalization-swatch-picker-option-image</value>
+      <webElementGuid>3c3ca849-766a-48f4-bc8f-46262b1bb548</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>849ef836-0f6e-4d28-b5dd-12e9f36408d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-title</name>
+      <type>Main</type>
+      <value>Teal</value>
+      <webElementGuid>54a335db-dc98-44f3-acc5-dc94f5da8a0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Thread Color|31-option&quot;)/div[@class=&quot;gwt-personalization-swatch-picker-option hover&quot;]/img[@class=&quot;gwt-personalization-swatch-picker-option-image&quot;]</value>
+      <webElementGuid>a6a00641-8e66-45ea-a212-a9f982f93c22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Thread Color|31-option']/div[16]/img</value>
+      <webElementGuid>1cdcef9f-d931-4779-ad80-e20c0c53d200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div[2]/div[16]/img</value>
+      <webElementGuid>45d69513-dafe-45da-8486-c9eaeef515db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/wcsstore/images/BallardDesigns/personalization/teal.jpg']</value>
+      <webElementGuid>0a19683a-b20b-460a-8e85-c449bd69ef50</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

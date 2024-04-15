@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Isabella Blue Fabric by the YardItem FF_09da50</name>
+   <tag></tag>
+   <elementGuidId>d22052e9-9f7d-41a8-ac8b-d9cd8b278877</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.order-item-display-wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shopping-cart-v2-root']/div/div[2]/div/div[4]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.order-item-display-wrapper</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>67855ac4-a14c-42c9-9088-388f89c0d4b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>order-item-display-wrapper</value>
+      <webElementGuid>e4461957-bcca-4675-a495-289ce976eef7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Isabella Blue Fabric by the YardItem #FF016ISUIn-stock Usually ships in 1-7 business days.This item cannot be returned.EditRemoveSave for Later$39.00$78.00</value>
+      <webElementGuid>e58e3f98-10f9-4a8d-8acc-94c5268d7dbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopping-cart-v2-root&quot;)/div[@class=&quot;shopping-cart-v2&quot;]/div[@class=&quot;main-panel&quot;]/div[@class=&quot;left-main-panel&quot;]/div[@class=&quot;items-container&quot;]/div[@class=&quot;order-item-display-widget-v2 order-item-with-personalization&quot;]/div[@class=&quot;order-item-display-wrapper&quot;]</value>
+      <webElementGuid>e66638e6-ed7a-4a5d-a649-60a93d77d98c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shopping-cart-v2-root']/div/div[2]/div/div[4]/div/div</value>
+      <webElementGuid>c2f9f011-c48f-4627-8b87-7c60597b37de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Price'])[1]/following::div[3]</value>
+      <webElementGuid>94aeb5d0-7e3b-49d1-aafc-903c0d797afb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantity'])[1]/following::div[4]</value>
+      <webElementGuid>b78146db-2111-468b-b1ee-4ab7146804a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div[4]/div/div</value>
+      <webElementGuid>d21acd55-a9d4-4472-9127-6b99ca260b1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Isabella Blue Fabric by the YardItem #FF016ISUIn-stock Usually ships in 1-7 business days.This item cannot be returned.EditRemoveSave for Later$39.00$78.00' or . = 'Isabella Blue Fabric by the YardItem #FF016ISUIn-stock Usually ships in 1-7 business days.This item cannot be returned.EditRemoveSave for Later$39.00$78.00')]</value>
+      <webElementGuid>a64b7f35-b45d-4d06-a5b6-47f2a5b4cd22</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

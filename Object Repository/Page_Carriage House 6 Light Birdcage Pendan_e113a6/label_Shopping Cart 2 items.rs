@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Shopping Cart 2 items</name>
+   <tag></tag>
+   <elementGuidId>4d9944ab-604d-41e0-9c84-b2a570cd4dcb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.shoppingCartText</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gwt_minicart_div']/table/tbody/tr/td[2]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; Shopping Cart 2 items&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>7af4214e-edbb-4b24-98e2-71a2bcaf5ebd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>shoppingCartText</value>
+      <webElementGuid>63e28cd0-b649-4ba2-9aef-8ed644e5db04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>cartAnchor</value>
+      <webElementGuid>d1926282-8957-48d9-af68-30ac2bf72591</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shopping Cart 2 items</value>
+      <webElementGuid>07801fe5-67e8-4f70-a1eb-f1034a4f0013</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gwt_minicart_div&quot;)/table[1]/tbody[1]/tr[1]/td[2]/div[@class=&quot;mini-cart-link-inactive&quot;]/label[@class=&quot;shoppingCartText&quot;]</value>
+      <webElementGuid>0beed055-f8cc-4376-b0bd-5a65b5392c32</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gwt_minicart_div']/table/tbody/tr/td[2]/div/label</value>
+      <webElementGuid>ae96c164-f5c8-445d-9409-fb0b14318431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Status'])[1]/following::label[1]</value>
+      <webElementGuid>d07a3e0f-a229-4300-8e70-c9dbcce21a78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wish List'])[1]/following::label[1]</value>
+      <webElementGuid>7cdc2cf5-e745-44bb-9e80-0bd9929c8909</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gift Registry'])[1]/preceding::label[1]</value>
+      <webElementGuid>b23d985d-ba68-45af-b1f6-2c7ca5314d32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Design Services'])[1]/preceding::label[1]</value>
+      <webElementGuid>9c301c48-570c-4e9e-a317-ea0d712d9337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Shopping Cart 2 items']/parent::*</value>
+      <webElementGuid>89c86e70-7222-460a-8f1c-17731be9ff46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>bae0af04-4171-4beb-b248-7963d2ede988</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Shopping Cart 2 items' or . = 'Shopping Cart 2 items')]</value>
+      <webElementGuid>ac3e9524-12e7-4e85-af5a-10463e865f66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
